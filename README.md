@@ -1,2 +1,2 @@
-# BreastCancerPrediction
-uses R for breast cancer prediction
+# HeartDiseasePrediction
+uses R for heart disease prediction
